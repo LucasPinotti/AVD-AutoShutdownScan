@@ -8,7 +8,6 @@ catch {
     throw $_.Exception
 }
 
-#Prueba 1234asdafde qwd
 ######## Variables ##########
 ## Update "HostPool" value with your host pool, and "HostPoolRG" with the value of the host pool resource group.
 ## See the next step if working with multiple host pools.
